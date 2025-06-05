@@ -47,29 +47,20 @@ Interface principal que conecta e organiza a execução de todo o processo de fo
 
 ## 📂 Estrutura do Projeto
 
+```
 ALTOMAÇÃO_MAPA_DE_ALUNOS/
-│
 ├── automacao/
-│ │
 │ ├── extrair_dados.py
-│ │
 │ └── filtros_selecionados.txt
-│
 ├── tratamento_de_planilhas/
-│ │
 │ ├── Arquivo_HTML/
-│ │
 │ ├── BaseDeDados.xlsx
-│ │
 │ ├── MAPA_DE_ALUNOS.XLSX
-│ │
 │ ├── transformar_em_planilha.py
-│ │
-│ └── tratamento_de_BaseDeDados
-│
+│ └── tratamento_de_BaseDeDados/
 ├── interface.py
-│
 └── README.md
+```
 
 ---
 
