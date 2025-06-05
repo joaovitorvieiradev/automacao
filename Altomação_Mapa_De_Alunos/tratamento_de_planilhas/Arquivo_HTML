@@ -1,0 +1,332 @@
+
+<html> 
+<!--
+    ATENÇÃO: Todos os dados presentes neste arquivo são totalmente fictícios
+    e foram criados apenas para fins ilustrativos e de teste.
+-->
+    <head>
+        <!-- acentua&ccedil;&atilde;o do php para excel -->
+        <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+    </head>
+
+    <body>
+
+        <table width="100%" class="tbl-cabecalho" cellspacing="0">
+            <thead>
+                <tr>
+                    <td width="25%" align="center"></td>
+                    <td width="50%" align="center"><p style="font-size: 18px;line-height: 1px"><b>Listagem de Alunos</b></p></td>
+                    <td style="font-size: 10px;">Situa&ccedil;&atilde;o: Contrato Cancelado<br>Man Jo&atilde;o exec Conta<br>Curso Livre<br>Grupo: 2/20<br>Per&iacute;odo: 01/01/2023 - 04/06/2025<br></td>
+                </tr>
+            </thead>
+        </table>
+        <hr>
+
+        <table width="100%" cellpadding="4" cellspacing="0" class="tbl-corpo" border="1">
+            <thead>
+                <tr bgcolor="silver">
+                
+                    <th align="center">MATR&Iacute;CULA</th>
+                
+                    <th align="center">Nome</th>
+                
+                    <th align="center">Curso</th>
+                
+                    <th align="center">TURMA</th>
+                
+                    <th align="center">Turno</th>
+                
+                    <th align="center">Grupo</th>
+                
+                    <th align="center">Data de Matr&iacute;cula</th>
+                
+                </tr>
+            </thead>
+            <tbody>
+
+            <tr>
+<td width="auto" align="left">710847252
+        </td><td width="auto" align="left">JOZELIA
+        </td><td width="auto" align="left">CURSO LIVRE: PANIFICA&Ccedil;&Atilde;O EXEMPLO
+        </td><td width="auto" align="left">2/25 - APDR-001/2025-2T
+        </td><td width="auto" align="left">Vespertino
+        </td><td width="auto" align="left">2/20
+        </td><td width="auto" align="center">24/04/2020
+        </td>
+        </tr>
+
+            <tr>
+<td width="auto" align="left">723932555
+        </td><td width="auto" align="left">ENI LUCIA
+        </td><td width="auto" align="left">CURSO LIVRE: CONFEITARIA EXEMPLO
+        </td><td width="auto" align="left">2/25 - RCON-001/2025-21T
+        </td><td width="auto" align="left">Matutino
+        </td><td width="auto" align="left">2/20
+        </td><td width="auto" align="center">11/04/2020
+        </td>
+        </tr>
+
+            <tr>
+<td width="auto" align="left">728935739
+        </td><td width="auto" align="left">LUCIMAR
+        </td><td width="auto" align="left">CURSO LIVRE: INFORM&Aacute;TICA INICIAL EXEMPLO
+        </td><td width="auto" align="left">2/25 - YIFI-001/2025-00T
+        </td><td width="auto" align="left">Matutino
+        </td><td width="auto" align="left">2/20
+        </td><td width="auto" align="center">04/04/2020
+        </td>
+        </tr>
+
+            <tr>
+<td width="auto" align="left">734636998
+        </td><td width="auto" align="left">DANILE JUNIOR
+        </td><td width="auto" align="left">CURSO LIVRE: CORTE E COSTURA B&Aacute;SICO EXEMPLO
+        </td><td width="auto" align="left">2/25 - JCEC-001/2025-25T
+        </td><td width="auto" align="left">Matutino
+        </td><td width="auto" align="left">2/20
+        </td><td width="auto" align="center">03/04/2020
+        </td>
+        </tr>
+
+            <tr>
+<td width="auto" align="left">738395527
+        </td><td width="auto" align="left">FERNANDA MARANÃO
+        </td><td width="auto" align="left">CURSO LIVRE: PANIFICA&Ccedil;&Atilde;O EXEMPLO
+        </td><td width="auto" align="left">2/25 - PDKR-001/2025-32T
+        </td><td width="auto" align="left">Vespertino
+        </td><td width="auto" align="left">2/20
+        </td><td width="auto" align="center">26/03/2020
+        </td>
+        </tr>
+
+            <tr>
+<td width="auto" align="left">738395666
+        </td><td width="auto" align="left">FERNANDA DE SOUZA
+        </td><td width="auto" align="left">CURSO LIVRE: CABELEIREIRO ESPECIALIZA EXEMPLO&Ccedil;&Atilde;O - PENTEADOS
+        </td><td width="auto" align="left">2/25 - PEEN-001/2025-05T
+        </td><td width="auto" align="left">Matutino
+        </td><td width="auto" align="left">2/20
+        </td><td width="auto" align="center">26/03/2020
+        </td>
+        </tr>
+
+            <tr>
+<td width="auto" align="left">739300463
+        </td><td width="auto" align="left">ROBERTA RENATA
+        </td><td width="auto" align="left">CURSO LIVRE: DEPILA&Ccedil;&Atilde;O EXEMPLO
+        </td><td width="auto" align="left">2/25 - WDEP-001/2025-06T
+        </td><td width="auto" align="left">Matutino
+        </td><td width="auto" align="left">2/20
+        </td><td width="auto" align="center">23/04/2020
+        </td>
+        </tr>
+
+            <tr>
+<td width="auto" align="left">739453110
+        </td><td width="auto" align="left">RAPHAEL DE MALAQUIAS
+        </td><td width="auto" align="left">CURSO LIVRE: INFORM&Aacute;TICA INICIAL EXEMPLO
+        </td><td width="auto" align="left">2/25 - IFTI-001/2025-10T
+        </td><td width="auto" align="left">Matutino
+        </td><td width="auto" align="left">2/20
+        </td><td width="auto" align="center">11/04/2020
+        </td>
+        </tr>
+
+            <tr>
+<td width="auto" align="left">739710440
+        </td><td width="auto" align="left">MIRENE DA COSTA
+        </td><td width="auto" align="left">CURSO LIVRE: CABELEIREIRO ESPECIALIZA EXEMPLO&Ccedil;&Atilde;O - PENTEADOS
+        </td><td width="auto" align="left">2/25 - PGEN-001/2025-11T
+        </td><td width="auto" align="left">Matutino
+        </td><td width="auto" align="left">2/20
+        </td><td width="auto" align="center">25/03/2020
+        </td>
+        </tr>
+
+            <tr>
+<td width="auto" align="left">739710111
+        </td><td width="auto" align="left">MIRENE DA CRUZ
+        </td><td width="auto" align="left">CURSO LIVRE: DESIGNER DE SOBRANCELHA EXEMPLO
+        </td><td width="auto" align="left">2/25 - MDES-001/2025-01T
+        </td><td width="auto" align="left">Vespertino
+        </td><td width="auto" align="left">2/20
+        </td><td width="auto" align="center">25/03/2020
+        </td>
+        </tr>
+
+            <tr>
+<td width="auto" align="left">739871977
+        </td><td width="auto" align="left">KAUA MACHADO
+        </td><td width="auto" align="left">CURSO LIVRE: INFORM&Aacute;TICA INICIAL EXEMPLO
+        </td><td width="auto" align="left">2/25 - ISFI-002/2025-02T
+        </td><td width="auto" align="left">Vespertino
+        </td><td width="auto" align="left">2/20
+        </td><td width="auto" align="center">28/03/2020
+        </td>
+        </tr>
+
+            <tr>
+<td width="auto" align="left">739951553
+        </td><td width="auto" align="left">ANA CAROLINA SIMÃO
+        </td><td width="auto" align="left">CURSO LIVRE: DESIGNER DE SOBRANCELHA EXEMPLO
+        </td><td width="auto" align="left">2/25 - DESS-001/2025-05T
+        </td><td width="auto" align="left">Vespertino
+        </td><td width="auto" align="left">2/20
+        </td><td width="auto" align="center">01/04/2020
+        </td>
+        </tr>
+
+            <tr>
+<td width="auto" align="left">740548111
+        </td><td width="auto" align="left">KELYSON MENESES
+        </td><td width="auto" align="left">CURSO LIVRE: INFORM&Aacute;TICA INICIAL EXEMPLO
+        </td><td width="auto" align="left">2/25 - SIFI-001/2025-03T
+        </td><td width="auto" align="left">Matutino
+        </td><td width="auto" align="left">2/20
+        </td><td width="auto" align="center">11/04/2020
+        </td>
+        </tr>
+
+            <tr>
+<td width="auto" align="left">740722622
+        </td><td width="auto" align="left">BARBARA BRANDÃO
+        </td><td width="auto" align="left">CURSO LIVRE: DEPILA&Ccedil;&Atilde;O EXEMPLO
+        </td><td width="auto" align="left">
+        </td><td width="auto" align="left">Matutino
+        </td><td width="auto" align="left">2/20
+        </td><td width="auto" align="center">15/04/2020
+        </td>
+        </tr>
+
+            <tr>
+<td width="auto" align="left">740748002
+        </td><td width="auto" align="left">WALLACE DE JESUS
+        </td><td width="auto" align="left">CURSO LIVRE: CONFEITARIA EXEMPLO
+        </td><td width="auto" align="left">2/25 - CION-001/2025-12T
+        </td><td width="auto" align="left">Matutino
+        </td><td width="auto" align="left">2/20
+        </td><td width="auto" align="center">15/04/2020
+        </td>
+        </tr>
+
+            <tr>
+<td width="auto" align="left">740803553
+        </td><td width="auto" align="left">ERIKA SILVA
+        </td><td width="auto" align="left">CURSO LIVRE: CABELEIREIRO ESPECIALIZA&Ccedil;&Atilde;O - PENTEADOS EXEMPLO
+        </td><td width="auto" align="left">2/25 - PEIN-001/2025-02T
+        </td><td width="auto" align="left">Matutino
+        </td><td width="auto" align="left">2/20
+        </td><td width="auto" align="center">16/04/2020
+        </td>
+        </tr>
+
+            <tr>
+<td width="auto" align="left">740803410
+        </td><td width="auto" align="left">ERIKA MAGALHAES
+        </td><td width="auto" align="left">CURSO LIVRE: DESIGNER DE SOBRANCELHA EXEMPLO
+        </td><td width="auto" align="left">2/25 - TDES-001/2025-20T
+        </td><td width="auto" align="left">Vespertino
+        </td><td width="auto" align="left">2/20
+        </td><td width="auto" align="center">16/04/2020
+        </td>
+        </tr>
+
+            <tr>
+<td width="auto" align="left">740864785
+        </td><td width="auto" align="left">SANDRA MARAVILHA
+        </td><td width="auto" align="left">CURSO LIVRE: DESIGNER DE SOBRANCELHA EXEMPLO
+        </td><td width="auto" align="left">2/25 - DCES-001/2025-27T
+        </td><td width="auto" align="left">Vespertino
+        </td><td width="auto" align="left">2/20
+        </td><td width="auto" align="center">23/04/2020
+        </td>
+        </tr>
+
+            <tr>
+<td width="auto" align="left">741058102
+        </td><td width="auto" align="left">JAQUELINE PINTO
+        </td><td width="auto" align="left">CURSO LIVRE: CONFEITARIA EXEMPLO
+        </td><td width="auto" align="left">2/25 - GCON-001/2025-45T
+        </td><td width="auto" align="left">Matutino
+        </td><td width="auto" align="left">2/20
+        </td><td width="auto" align="center">28/04/2020
+        </td>
+        </tr>
+
+            <tr>
+<td width="auto" align="left">741181453
+        </td><td width="auto" align="left">FLAVIA DAMASCENO
+        </td><td width="auto" align="left">CURSO LIVRE: DERMAPLANING EXEMPLO
+        </td><td width="auto" align="left">2/25 - HDRP-001/2025-33T
+        </td><td width="auto" align="left">Matutino
+        </td><td width="auto" align="left">2/20
+        </td><td width="auto" align="center">30/04/2020
+        </td>
+        </tr>
+
+            <tr>
+<td width="auto" align="left">741181032
+        </td><td width="auto" align="left">FLAVIA COSTA
+        </td><td width="auto" align="left">CURSO LIVRE: DEPILA EXEMPLO&Ccedil;&Atilde;O
+        </td><td width="auto" align="left">2/25 - DBEP-001/2025-29T
+        </td><td width="auto" align="left">Matutino
+        </td><td width="auto" align="left">2/20
+        </td><td width="auto" align="center">30/04/2020
+        </td>
+        </tr>
+
+            <tr>
+<td width="auto" align="left">741336746
+        </td><td width="auto" align="left">ISABELLE JUNIA
+        </td><td width="auto" align="left">CURSO LIVRE: CORTE E COSTURA EXEMPLO B&Aacute;SICO
+        </td><td width="auto" align="left">2/25 - CESC-001/2025-21T
+        </td><td width="auto" align="left">Matutino
+        </td><td width="auto" align="left">2/20
+        </td><td width="auto" align="center">07/05/2020
+        </td>
+        </tr>
+
+        <tr>
+            <td colspan="7" align="right">22 resultados encontrados.</td>
+        </tr>
+    
+    </tbody>
+    </table>
+    
+    <table width="100%" border="1" cellpadding="4" cellspacing="0" class="tbl-corpo">
+        <tr>
+            <td colspan="2" bgcolor="silver" align="center"><b>Resumo de Alunos</b></td>
+        </tr>
+        <tr>
+            <td bgcolor="silver" align="center"><b>Curso</b></td>
+            <td bgcolor="silver" align="center"><b>Total</b></td>
+        </tr>
+<tr>
+            <td align="left">CURSO LIVRE: PANIFICA&Ccedil;&Atilde;O</td> EXEMPLO
+            <td align="center">2</td>
+        </tr><tr>
+            <td align="left">CURSO LIVRE: CONFEITARIA</td>EXEMPLO
+            <td align="center">3</td>
+        </tr><tr>
+            <td align="left">CURSO LIVRE: INFORM&Aacute;TICA INICIAL</td>EXEMPLO
+            <td align="center">4</td>
+        </tr><tr>
+            <td align="left">CURSO LIVRE: CORTE E COSTURA B&Aacute;SICO</td>EXEMPLO
+            <td align="center">2</td>
+        </tr><tr>
+            <td align="left">CURSO LIVRE: CABELEIREIRO ESPECIALIZA&Ccedil;&Atilde;O - PENTEADOS</td>EXEMPLO
+            <td align="center">3</td>
+        </tr><tr>
+            <td align="left">CURSO LIVRE: DEPILA&Ccedil;&Atilde;O</td>EXEMPLO
+            <td align="center">3</td>
+        </tr><tr>
+            <td align="left">CURSO LIVRE: DESIGNER DE SOBRANCELHA</td>EXEMPLO
+            <td align="center">4</td>
+        </tr><tr>
+            <td align="left">CURSO LIVRE: DERMAPLANING</td>EXEMPLO
+            <td align="center">1</td>
+        </tr></table>
+
+    </body>
+
+</html> 
